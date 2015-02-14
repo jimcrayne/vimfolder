@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language:   llvm
-" Maintainer: The LLVM team, http://llvm.org/
+" Maintainer: Jim Crayne <jim.crayne@gmail.com>
 " Version:      $Revision: 194760 $
 
 if version < 600

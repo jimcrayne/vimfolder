@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:     Markdown
 " Author:       Ben Williams <benw@plasticboy.com>
-" Maintainer:   Hallison Batista <email@hallisonbatista.com>
+" Maintainer: Jim Crayne <jim.crayne@gmail.com>
 " URL:          http://plasticboy.com/markdown-vim-mode/
 " Version:      1.0.1
 " Last Change:  Fri Dec  4 08:36:48 AMT 2009

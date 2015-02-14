@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language:   TableGen
-" Maintainer: The LLVM team, http://llvm.org/
+" Maintainer: Jim Crayne <jim.crayne@gmail.com>
 " Version:    $Revision: 151164 $
 
 if version < 600
